@@ -1,5 +1,5 @@
 Offenses (including attempts), Metro, Northeast, Southeast, West,
--1, 21, 22, 23
+2021, 2022, 2023
 Murder/Non-Negligent Manslaughter, 0,0,0, 0,0,0, 0,0,0, 0,0,0,
 Manslaughter by Negligence, 0,0,0, 0,0,0, 0,0,0, 0,0,0,
 *Sexual Offense,
@@ -31,8 +31,4 @@ Referral, 0,0,0, 0,0,0, 0,0,0, 0,0,0,
 Arrest, 0,0,0, 0,0,0, 0,0,0, 0,0,0,
 Referral, 0,0,0, 0,0,0, 0,0,0, 0,0,0,
 *
-
-Unfounded, -1,0, -1,0, -1,0, 2020,1, 
-
-
 
